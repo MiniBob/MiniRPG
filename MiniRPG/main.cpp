@@ -2704,7 +2704,7 @@ int intro(Joueur &joueur)
         {
             phrase("Ah bon.");
             finLigne(500);
-            phrase("Faut que je passe chez l'opticen alors.");
+            phrase("Faut que je passe chez l'opticien alors.");
             finLigne(500);
         }
     }

@@ -30,8 +30,8 @@ void combatArene(Joueur &joueur,Ennemi &ennemi)
         {
             combatActif = actionEnnemi(ennemi,joueur);
         }
-
         ///Phrase de mort de l'arene
+
         if(!joueur.estVivant() && ennemi.getNom() != "Chef Instructeur")
         {
             cout << endl;
