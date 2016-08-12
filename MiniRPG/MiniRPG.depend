@@ -1,0 +1,189 @@
+# depslib dependency file v1.0
+1465375125 source:c:\openclassrooms\monprojet\main.cpp
+	<iostream>
+	<string>
+	"Arme.h"
+	"Personnage.h"
+	"Joueur.h"
+	"Ennemi.h"
+	"Combat.h"
+
+1464874215 c:\openclassrooms\monprojet\personnages.h
+	"Arme.h"
+	"Sort.h"
+	"Ennemi.h"
+	<iostream>
+	<string>
+
+1464864436 source:c:\openclassrooms\monprojet\personnages.cpp
+	<ctime>
+	<cstdlib>
+	"Personnages.h"
+	"Arme.h"
+	"combat.h"
+
+1465222155 c:\openclassrooms\monprojet\arme.h
+	<string>
+
+1464688362 c:\openclassrooms\monprojet\armure.h
+
+1464688402 c:\openclassrooms\monprojet\accessoire.h
+
+1464690309 c:\openclassrooms\monprojet\objet.h
+	<iostream>
+	<string>
+
+1465222461 source:c:\openclassrooms\monprojet\arme.cpp
+	<iostream>
+	"Arme.h"
+
+1464709968 source:c:\openclassrooms\monprojet\equipement.cpp
+	"Equipement.h"
+
+1464709097 c:\openclassrooms\monprojet\equipement.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+
+1464853514 c:\openclassrooms\monprojet\main.h
+	"Personnages.h"
+
+1465375164 source:c:\openclassrooms\monprojet\combat.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	"Combat.h"
+
+1465219213 c:\openclassrooms\monprojet\combat.h
+	<string>
+	"Joueur.h"
+	"Ennemi.h"
+
+1464863685 c:\openclassrooms\monprojet\sort.h
+	<string>
+
+1464863708 source:c:\openclassrooms\monprojet\sort.cpp
+	"Sort.h"
+
+1465307227 c:\openclassrooms\monprojet\ennemi.h
+	"Personnage.h"
+
+1465314313 c:\openclassrooms\monprojet\personnage.h
+	"Arme.h"
+
+1465316319 source:c:\openclassrooms\monprojet\personnage.cpp
+	<iostream>
+	"Arme.h"
+	"Personnage.h"
+
+1465373646 source:c:\openclassrooms\monprojet\joueur.cpp
+	<iostream>
+	<cmath>
+	"Joueur.h"
+
+1465316335 c:\openclassrooms\monprojet\joueur.h
+	"Personnage.h"
+
+1465307278 source:c:\openclassrooms\monprojet\ennemi.cpp
+	<iostream>
+	"Ennemi.h"
+
+1469182918 source:c:\openclassrooms\minirpg\arme.cpp
+	"Arme.h"
+
+1469719875 c:\openclassrooms\minirpg\arme.h
+	<string>
+	<windows.h>
+	<ctime>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+
+1469524340 source:c:\openclassrooms\minirpg\combat.cpp
+	"Combat.h"
+
+1469524367 c:\openclassrooms\minirpg\combat.h
+	"Joueur.h"
+
+1469529947 c:\openclassrooms\minirpg\joueur.h
+	"Ennemi.h"
+
+1469182088 c:\openclassrooms\minirpg\personnage.h
+	"Fonction.h"
+
+1469529947 c:\openclassrooms\minirpg\ennemi.h
+	"Personnage.h"
+
+1469182973 source:c:\openclassrooms\minirpg\ennemi.cpp
+	"Ennemi.h"
+
+1469714626 source:c:\openclassrooms\minirpg\joueur.cpp
+	<cmath>
+	"Joueur.h"
+
+1469185607 source:c:\openclassrooms\minirpg\personnage.cpp
+	"Personnage.h"
+
+1470241887 source:c:\openclassrooms\minirpg\main.cpp
+	<cmath>
+	"main.h"
+
+1470237941 c:\openclassrooms\minirpg\main.h
+	"Combat.h"
+
+1470233377 c:\openclassrooms\minirpg\fonction.h
+	"Arme.h"
+
+1470301446 source:c:\openclassrooms\minirpg\fonction.cpp
+	"Fonction.h"
+
+1469182918 source:c:\openclassrooms\c++\minirpg\arme.cpp
+	"Arme.h"
+
+1469719875 c:\openclassrooms\c++\minirpg\arme.h
+	<string>
+	<windows.h>
+	<ctime>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+
+1471010240 source:c:\openclassrooms\c++\minirpg\combat.cpp
+	"Combat.h"
+
+1469524367 c:\openclassrooms\c++\minirpg\combat.h
+	"Joueur.h"
+
+1469529947 c:\openclassrooms\c++\minirpg\joueur.h
+	"Ennemi.h"
+
+1469529947 c:\openclassrooms\c++\minirpg\ennemi.h
+	"Personnage.h"
+
+1469182088 c:\openclassrooms\c++\minirpg\personnage.h
+	"Fonction.h"
+
+1470910992 c:\openclassrooms\c++\minirpg\fonction.h
+	"Arme.h"
+
+1469182973 source:c:\openclassrooms\c++\minirpg\ennemi.cpp
+	"Ennemi.h"
+
+1471010240 source:c:\openclassrooms\c++\minirpg\joueur.cpp
+	<cmath>
+	"Joueur.h"
+
+1470995132 source:c:\openclassrooms\c++\minirpg\main.cpp
+	<cmath>
+	"main.h"
+
+1470304713 c:\openclassrooms\c++\minirpg\main.h
+	"Combat.h"
+
+1469185607 source:c:\openclassrooms\c++\minirpg\personnage.cpp
+	"Personnage.h"
+
+1471009530 source:c:\openclassrooms\c++\minirpg\fonction.cpp
+	"Fonction.h"
+
